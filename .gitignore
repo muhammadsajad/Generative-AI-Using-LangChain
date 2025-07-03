@@ -1,2 +1,5 @@
 # Ignore environment files containing secrets
 .env
+
+# Ignore virtual environments
+langchainVenv/
