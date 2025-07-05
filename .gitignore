@@ -2,4 +2,4 @@
 .env
 
 # Ignore virtual environments
-langchainVenv/
+langChainVenv/
