@@ -17,7 +17,7 @@ I'm exploring how to build applications with LLMs using LangChain's powerful too
 - Using external tools like APIs and memory  
 - Integrating various providers with LangChain  
 
-📺 **Special thanks to [CampusX](https://www.youtube.com/@CampusX) YouTube channel**  
+📺 **Special thanks to [CampusX](https://www.youtube.com/@campusx-official) YouTube channel**  
 I’m learning a lot from their tutorials. Their content is helping me understand Generative AI better.
 
 Feel free to follow my learning journey!
